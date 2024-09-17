@@ -1,0 +1,62 @@
+body {
+    font-size: 26px;
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main {
+    max-width: 1500px;
+    margin: 0px;
+    padding: 25px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+#mikey {
+border-radius: 0%;
+width: 500px;
+
+}
+
+#text {
+    align-self: center;
+    padding: 50px;
+
+}
+
+h4 {
+    color: red;
+    opacity: 0,2;
+}
+
+.description{
+    font-size: 17px;
+    color: crimson;
+    box-shadow: 1px 2px 4px rgba (0, 0, 0, 0.836);
+    max-width: 850px;
+    padding: 20px;
+    background-color: white;
+    margin-top: 20px;
+    justify-content: center;
+}
+
+footer {
+text-align: center;
+font-size: 16px;
+font-weight: normal;
+padding: 20px;
+
+}
+
+#Endrews {
+    font-weight: hold;
+}
+
+#Endrews :hover{
+    color: red;
+    font-size: 60px;
+    transition: 0.5px size-in;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Fascinate+Inline&display=swap');
